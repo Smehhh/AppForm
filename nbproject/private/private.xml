@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/util/MapHelper.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/web/WEB-INF/templates/error.jsp</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/storage/CookieStorage.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/util/JsonHelper.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/util/ApprovalHelper.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/web/WEB-INF/templates/index.jsp</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/web/CreditServlet.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/entities/Client.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/storage/SessionStorage.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/analyst/Analyst.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/util/ValidationHelper.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/storage/Storage.java</file>
+            <file>file:/C:/Users/BURNERON/Desktop/ApplicationForm/src/java/credit/entities/ClientRequest.java</file>
+        </group>
+    </open-files>
+</project-private>
